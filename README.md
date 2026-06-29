@@ -360,4 +360,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Apple App Store API to power ASO, competitor analysis, market research, and review monitoring with reliable, structured results.*
 
-Last Updated: 2026.06.24
+Last Updated: 2026.06.29
