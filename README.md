@@ -300,7 +300,7 @@ On claude.ai you add Apify as a connector, then enable the App Store API tools.
 4. Alternatively, choose **Add custom connector** and paste the full MCP URL `https://mcp.apify.com/?tools=actors,docs,johnvc/apple-app-store-search,johnvc/apple-app-store-product-api,johnvc/apple-app-store-reviews-api`, using OAuth when prompted.
 5. Ask Claude to run the Apple App Store API.
 
-Open Claude on the web: https://claude.ai
+Open Claude on the web: https://claude.ai/referral/uIlpa7nPLg
 
 ## Install in Cursor
 
