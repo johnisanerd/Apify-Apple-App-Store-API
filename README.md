@@ -360,4 +360,15 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Apple App Store API to power ASO, competitor analysis, market research, and review monitoring with reliable, structured results.*
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Apple App Store Actor in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Apple%20App%20Store%20Actor%20on%20Apify%20%28https://apify.com/johnvc/apple-app-store-search?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Scrape%20Apple%20App%20Store%20Search%20Results%20by%20Keyword%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Apple%20App%20Store%20Actor%20on%20Apify%20%28https://apify.com/johnvc/apple-app-store-search?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Scrape%20Apple%20App%20Store%20Search%20Results%20by%20Keyword%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Apple%20App%20Store%20Actor%20on%20Apify%20%28https://apify.com/johnvc/apple-app-store-search?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Scrape%20Apple%20App%20Store%20Search%20Results%20by%20Keyword%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20Apple%20App%20Store%20Actor%20on%20Apify%20%28https://apify.com/johnvc/apple-app-store-search?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Scrape%20Apple%20App%20Store%20Search%20Results%20by%20Keyword%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 Last Updated: 2026.09.22
